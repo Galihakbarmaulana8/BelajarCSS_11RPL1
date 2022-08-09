@@ -1,0 +1,29 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(background.avif);no repeat;
+    background-size: cover;
+}
+h1,h2,h3, p  {
+    color:rgb(102, 33, 122);
+    text-align:center;
+}
+.centerbox {
+    width: 550px;
+    border: 1px solid #fdfdfd;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background: rgba(red, green, blue, alpha);
+}
+.avatar img{
+    border-radius:50%;
+}
+.social{
+    margin: 15px auto;
+}
+.social a i{
+    margin: 5px;
+}
